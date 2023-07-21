@@ -7,10 +7,15 @@ Author
 
 * Aaron O'Mullan <aaron.omullan@friendco.de>
 
-Fork maintainer
-----------------
+Previous fork maintainer
+------------------------
 
 * Iacopo Spalletti <i.spalletti@nephila.it>
+
+Current fork maintainer
+-----------------------
+
+* Michal Nowikowski <godfryd@gmail.com>
 
 Contributors
 ------------

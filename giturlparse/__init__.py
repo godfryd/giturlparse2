@@ -1,8 +1,8 @@
 from .parser import parse as _parse
 from .result import GitUrlParsed
 
-__author__ = "Iacopo Spalletti"
-__email__ = "i.spalletti@nephila.it"
+__author__ = "Michal Nowikowski"
+__email__ = "godfryd@gmail.com"
 __version__ = "1.0.0"
 
 
