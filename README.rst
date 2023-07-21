@@ -4,8 +4,7 @@ giturlparse
 
 Parse & rewrite git urls (supports GitHub, Bitbucket, FriendCode, Assembla, Gitlab ...)
 
-This is a fork of giturlparse.py with updated parsers.
-
+This is again a fork, now fork of https://github.com/nephila/giturlparse.
 Original project can be found at https://github.com/FriendCode/giturlparse.py
 
 ************
